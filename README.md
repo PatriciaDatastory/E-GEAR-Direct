@@ -1,2 +1,2 @@
-# E-GEAR-Direct
+# E-GEAR Direct
 Sales trends analysis for e-commerce company
